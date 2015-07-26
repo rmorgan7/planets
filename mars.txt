@@ -2,3 +2,4 @@ Mars is a red planet
 It is a rocky planet. 
 The next planet is jupiter.
 The one before is Earth
+Poor pluto isn't a planet anymore!
