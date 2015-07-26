@@ -1,4 +1,4 @@
 Mars is a red planet
 It is a rocky planet. 
 The next planet is jupiter.
-HELLO!
+The one before is Earth
