@@ -1,4 +1,2 @@
 Mars is a red planet
 It is a rocky planet. 
-One more line of information.
-more changes
